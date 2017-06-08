@@ -1,3 +1,5 @@
+# OBSOLETE - this repository is now included in https://github.com/ic-labs/django-icekit/
+
 ## ICEkit Press Releases
 
 This is a simple app to implement general-purpose Press Releases in ICEkit
